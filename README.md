@@ -26,6 +26,12 @@ Make a PR to see your name here. ;-)
 
 PS: via `git shortlog -n -s`
 
+## Prerequisites
+```bash
+$ npm install -g express
+$ npm install -g jade
+```
+
 ## Installation (recommended)
 
 Recommended global installation:
